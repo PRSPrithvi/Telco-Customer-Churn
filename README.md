@@ -82,7 +82,7 @@ Telco-Customer-Churn/
 │   ├── catboost_info                      # Folder made from running the catboost model
 │   ├── eda_feat_engg.ipynb                # Notebook for EDA and Feature Engineering
 │   └── model_eval.ipynb                   # Notebook for Modeling and Evaluation
-│   └── LICENSE                            # License file
+├── LICENSE                            # License file
 ├── README.md                              # This documentation file
 └── requirements.txt                       # Dependency list
 ```
