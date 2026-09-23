@@ -215,7 +215,7 @@ The categorical association table supports those visual findings. `Contract` has
 
 ---
 
-## 🤖 Feature Engineering
+## 🧠 Feature Engineering
 
 The processed dataset introduces five engineered variables intended to preserve interpretability while improving signal capture. These are tenure bucketing through `tenure_duration`, revenue intensity via `revenue_per_month`, and deviation or missing-indicator features for revenue-based calculations.
 
