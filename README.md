@@ -15,7 +15,7 @@ The modeling workflow compares multiple classifiers, evaluates them with both ra
 Models generated can save up to \$1,192,790.00 (CLTV) and up to \$502,714.06 (Total Revenue), as can be seen in the business simulation section.
 
 For full interactive plots, visit:
-- [eda_feat_engg.ipynb](https://nbviewer.org/github/PRSPrithvi/Telco-Customer-Churn/blob/main/notebooks/eda_feat_engg.ipynb)
+- [eda_feat_engg.ipynb](https://nbviewer.org/github/PRSPrithvi/Telco-Customer-Churn/blob/1621b8db296d10fcc54769b1ab93c1659aa4fcfb/notebooks/eda_feat_engg.ipynb?flush_cache=true)
 - [model_eval.ipynb](https://nbviewer.org/github/PRSPrithvi/Telco-Customer-Churn/blob/main/notebooks/model_eval.ipynb)
 
 ---
