@@ -15,8 +15,8 @@ The modeling workflow compares multiple classifiers, evaluates them with both ra
 Models generated can save up to \$1,192,790.00 (CLTV) and up to \$502,714.06 (Total Revenue), as can be seen in the business simulation section.
 
 For full interactive plots, visit:
-- [eda_feat_engg.ipynb](https://nbviewer.org/github/PRSPrithvi/Telco-Customer-Churn/blob/1621b8db296d10fcc54769b1ab93c1659aa4fcfb/notebooks/eda_feat_engg.ipynb?flush_cache=true)
-- [model_eval.ipynb](https://nbviewer.org/github/PRSPrithvi/Telco-Customer-Churn/blob/main/notebooks/model_eval.ipynb)
+- [eda_feat_engg.ipynb](https://nbviewer.org/github/PRSPrithvi/Telco-Customer-Churn/blob/40f196918f1d233979bf465f665e38a71fa0e8b5/notebooks/eda_feat_engg.ipynb)
+- [model_eval.ipynb](https://nbviewer.org/github/PRSPrithvi/Telco-Customer-Churn/blob/40f196918f1d233979bf465f665e38a71fa0e8b5/notebooks/model_eval.ipynb)
 
 ---
 
@@ -86,7 +86,7 @@ Telco-Customer-Churn/
 │   ├── catboost_info                      # Folder made from running the catboost model
 │   ├── eda_feat_engg.ipynb                # Notebook for EDA and Feature Engineering
 │   └── model_eval.ipynb                   # Notebook for Modeling and Evaluation
-├── LICENSE                            # License file
+├── LICENSE                                # License file
 ├── README.md                              # This documentation file
 └── requirements.txt                       # Dependency list
 ```
